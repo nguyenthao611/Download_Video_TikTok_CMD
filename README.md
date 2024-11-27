@@ -19,3 +19,5 @@ Những video được tải sẽ lưu ở thư mục "content", cùng thư mụ
 
 ## Lưu ý:
 API free chỉ được tối đa 150 request/month.
+
+## Kiểm tra ngày 27112024 còn đang hoạt động
